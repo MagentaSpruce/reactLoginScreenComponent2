@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/reactLoginScreenComponent2/static/js/main.58b3abe1.chunk.js",
+    "main.js.map": "/reactLoginScreenComponent2/static/js/main.58b3abe1.chunk.js.map",
+    "runtime-main.js": "/reactLoginScreenComponent2/static/js/runtime-main.da2d58ea.js",
+    "runtime-main.js.map": "/reactLoginScreenComponent2/static/js/runtime-main.da2d58ea.js.map",
+    "static/js/2.f6b5b966.chunk.js": "/reactLoginScreenComponent2/static/js/2.f6b5b966.chunk.js",
+    "static/js/2.f6b5b966.chunk.js.map": "/reactLoginScreenComponent2/static/js/2.f6b5b966.chunk.js.map",
+    "index.html": "/reactLoginScreenComponent2/index.html",
+    "precache-manifest.f9529cc1fa17c56f35752f2d77a68a0f.js": "/reactLoginScreenComponent2/precache-manifest.f9529cc1fa17c56f35752f2d77a68a0f.js",
+    "service-worker.js": "/reactLoginScreenComponent2/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da2d58ea.js",
+    "static/js/2.f6b5b966.chunk.js",
+    "static/js/main.58b3abe1.chunk.js"
+  ]
+}
